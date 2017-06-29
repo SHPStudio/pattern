@@ -6,17 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e14115b6-3c4c-4a1b-8e50-a78a3b1219c0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/singleton/singleton.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/singleton/src/com/shp/demo/SingletonDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/singleton/src/com/shp/singleton/ShowMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/singleton/src/com/shp/singleton/SingleObjectDCL.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/singleton/src/com/shp/singleton/SingleObjectLazyNoSafety.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/singleton/src/com/shp/singleton/SingleObjectLazySafety.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/singleton/src/com/shp/singleton/SingleObjectNormal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/singleton/src/com/shp/singleton/SingletonEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/singleton/src/com/shp/singleton/SingletonInside.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/singleton/Readme.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="3086a2f4-7f50-4981-819c-7e9fd4e061e3" name="Rejected commit: Default" comment="onload" />
@@ -126,12 +116,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SingletonDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SingletonDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/singleton/src/com/shp/demo/SingletonDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            <state relative-caret-position="150">
+              <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/singleton/Readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="120">
+                <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -202,6 +205,7 @@
         <option value="$PROJECT_DIR$/singleton/src/com/shp/singleton/SingletonEnum.java" />
         <option value="$PROJECT_DIR$/singleton/src/com/shp/singleton/SingletonInside.java" />
         <option value="$PROJECT_DIR$/singleton/src/com/shp/demo/SingletonDemo.java" />
+        <option value="$PROJECT_DIR$/singleton/Readme.md" />
       </list>
     </option>
   </component>
@@ -275,64 +279,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="singleton" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="singleton" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="singleton" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -997,7 +949,7 @@
       <workItem from="1498721549258" duration="3353000" />
       <workItem from="1498728564343" duration="158000" />
       <workItem from="1498728756553" duration="5176000" />
-      <workItem from="1498739106365" duration="5887000" />
+      <workItem from="1498739106365" duration="8009000" />
     </task>
     <task id="LOCAL-00001" summary="onload">
       <created>1498403327115</created>
@@ -1027,11 +979,18 @@
       <option name="project" value="LOCAL" />
       <updated>1498732741035</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="单例模式完成">
+      <created>1498747184998</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1498747184998</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20909000" />
+    <option name="totallyTimeSpent" value="23031000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1148,7 +1107,8 @@
     <MESSAGE value="工厂模式" />
     <MESSAGE value="工厂模式完成" />
     <MESSAGE value="抽象工厂模式完成" />
-    <option name="LAST_COMMIT_MESSAGE" value="抽象工厂模式完成" />
+    <MESSAGE value="单例模式完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="单例模式完成" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1159,13 +1119,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/factory/src/com/pattern/factory/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/factory/src/com/pattern/factory/Squar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1578,9 +1531,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/singleton/src/com/shp/demo/SingletonDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        <state relative-caret-position="150">
+          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/singleton/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

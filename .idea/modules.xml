@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/abstracFatory/abstracFatory.iml" filepath="$PROJECT_DIR$/abstracFatory/abstracFatory.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory/factory.iml" filepath="$PROJECT_DIR$/factory/factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/pattern.iml" filepath="$PROJECT_DIR$/pattern.iml" />
     </modules>

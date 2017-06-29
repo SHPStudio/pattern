@@ -6,7 +6,7 @@ import sun.security.provider.SHA;
  * Created by shp2 on 2017/6/29.
  */
 public class ShapeFactory {
-    public Shape getShape(String type)
+    public CommonShape getShape(String type)
     {
         if(type.equals("CIRCLE"))
         {

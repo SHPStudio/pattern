@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/component/component.iml" filepath="$PROJECT_DIR$/component/component.iml" />
       <module fileurl="file://$PROJECT_DIR$/facade/facade.iml" filepath="$PROJECT_DIR$/facade/facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory/factory.iml" filepath="$PROJECT_DIR$/factory/factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/memento/memento.iml" filepath="$PROJECT_DIR$/memento/memento.iml" />
       <module fileurl="file://$PROJECT_DIR$/observe/observe.iml" filepath="$PROJECT_DIR$/observe/observe.iml" />
       <module fileurl="file://$PROJECT_DIR$/pattern.iml" filepath="$PROJECT_DIR$/pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/protyotype/protyotype.iml" filepath="$PROJECT_DIR$/protyotype/protyotype.iml" />
